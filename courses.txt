@@ -1,0 +1,5 @@
+HTML/CSS--Reiska Ope--www.moodle.fi--online
+Basics of fundamentals--Simo Sakka--Linnanmaa Campus --B245
+Basics of fundamentals--John Doe--Kontinkangas Campus--B246
+Basics of Testing--John Doe--Oulainen Campus--B246
+Java Programming--Raisa Ripa--www.esimerkkiosoite.fi--online
