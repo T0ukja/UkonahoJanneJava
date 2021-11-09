@@ -1,4 +1,4 @@
-package com.lopputyo.janne.MyCourseController;
+package com.lopputyo.janne.student;
 
 public class Student{
     private String firstname;

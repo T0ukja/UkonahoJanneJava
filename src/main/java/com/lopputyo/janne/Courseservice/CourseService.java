@@ -1,16 +1,15 @@
-package com.lopputyo.janne.MyCourseController;
+package com.lopputyo.janne.Courseservice;
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
 
-
-
+import com.lopputyo.janne.Course.Course;
+import com.lopputyo.janne.CourseFileService.CourseFileService;
 import com.lopputyo.janne.ICourseService.ICourseService;
+import com.lopputyo.janne.student.Student;
 
 import org.springframework.stereotype.Service;
-
-import CourseFileService.CourseFileService;
 
 
 

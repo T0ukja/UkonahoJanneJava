@@ -1,4 +1,6 @@
-package com.lopputyo.janne.MyCourseController;
+package com.lopputyo.janne.Courseservice;
+
+import com.lopputyo.janne.Course.Course;
 
 public class LocalCourse extends Course {
     long onlinecourseid= 0;
