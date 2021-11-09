@@ -12,6 +12,10 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 import java.util.Map;
 
+import com.lopputyo.janne.Course.Course;
+import com.lopputyo.janne.Courseservice.CourseService;
+import com.lopputyo.janne.student.Student;
+
 /*
 En vääntänyt ResponseEntityä tähän projektiin, koska katsoin sen olevan liiallista koodia
 (tehtävän annossa ei varsinaisesti lukenut virheen palautuksesta selaimeen),

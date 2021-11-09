@@ -1,7 +1,9 @@
-package com.lopputyo.janne.MyCourseController;
+package com.lopputyo.janne.Course;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import com.lopputyo.janne.student.Student;
 
 public class Course{
 private String Coursename;

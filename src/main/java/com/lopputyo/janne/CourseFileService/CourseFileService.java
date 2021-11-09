@@ -1,16 +1,18 @@
-package CourseFileService;
+package com.lopputyo.janne.CourseFileService;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-import com.lopputyo.janne.MyCourseController.Course;
-import com.lopputyo.janne.MyCourseController.LocalCourse;
-import com.lopputyo.janne.MyCourseController.OnlineCourse;
-import com.lopputyo.janne.MyCourseController.Student;
+
+import com.lopputyo.janne.Course.Course;
+import com.lopputyo.janne.Courseservice.LocalCourse;
+import com.lopputyo.janne.Courseservice.OnlineCourse;
+import com.lopputyo.janne.ICourseFileService.ICourseFileService;
+import com.lopputyo.janne.student.Student;
+
 import org.springframework.stereotype.Controller;
-import ICourseFileService.ICourseFileService;
 
 @Controller
 public class CourseFileService implements ICourseFileService {

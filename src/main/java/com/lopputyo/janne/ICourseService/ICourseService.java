@@ -2,8 +2,8 @@ package com.lopputyo.janne.ICourseService;
 
 import java.util.List;
 
-import com.lopputyo.janne.MyCourseController.Course;
-import com.lopputyo.janne.MyCourseController.Student;
+import com.lopputyo.janne.Course.Course;
+import com.lopputyo.janne.student.Student;
 
 public interface ICourseService {
 
